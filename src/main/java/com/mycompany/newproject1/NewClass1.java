@@ -10,6 +10,9 @@ package com.mycompany.newproject1;
  * @author Diego
  */
 public class NewClass1 {
-    
+    /**
+ *
+ * @Jackie
+ */
     
 }
